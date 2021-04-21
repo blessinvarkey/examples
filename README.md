@@ -36,16 +36,7 @@ Teachable ML
 
 ### Step 1. Clone the TensorFlow examples source code
 
-Clone the TensorFlow examples GitHub repository to your computer to get the demo
-application.
-
-```
-https://github.com/AndroidArena/CurrencyDetectorAndroid.git
-```
-
-Open the TensorFlow source code in Android Studio. To do this, open Android
-Studio and select `Open an existing project`, setting the folder to
-`examples/lite/examples/image_classification/android`
+Clone the TensorFlow examples GitHub repository to your computer to get the demo application. Open the TensorFlow source code in Android Studio. To do this, open Android Studio and select `Open an existing project`, setting the folder to `examples/lite/examples/image_classification/android`
 
 <img src="images/classifydemo_img1.png?raw=true" />
 
